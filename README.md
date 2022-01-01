@@ -2,29 +2,29 @@
 
 ## Assignment 0: Preparation
 Original Mesh </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Lion.png"  width="400"> </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Lion%20Mesh.png"  width="400"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Lion.png"  width="300"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Lion%20Mesh.png"  width="300"> </br>
 
 Compute normal for each vertex </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Lion%20Mesh%20Normal.png"  width="400"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Lion%20Mesh%20Normal.png"  width="300"> </br>
 
 ## Assignment 1: Smoothing
 ### Results
 Original Bunny </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%20B.png"  width="400"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%20B.png"  width="300"> </br>
 Smoothed Bunny </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20B1.png"  width="400"> 
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20B2.png"  width="400"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20B1.png"  width="300"> 
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20B2.png"  width="300"> </br>
 Original Feline </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%20F.png"  width="400"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%20F.png"  width="300"> </br>
 Smoothed Feline </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20F1.png"  width="400"> 
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20F2.png"  width="400"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20F1.png"  width="300"> 
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20F2.png"  width="300"> </br>
 Original 3 Holes </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%203H.png"  width="400"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%203H.png"  width="300"> </br>
 Smoothed 3 Holes </br>
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%203H1.png"  width="400"> 
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%203H2.png"  width="400"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%203H1.png"  width="300"> 
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%203H2.png"  width="300"> </br>
 
 
 ## Assignment 2: Naive Laplacian Deformation 
@@ -37,6 +37,14 @@ The following are some results of the mesh deformation using the Laplacian-based
 | Original | After Deformation |
 | --- | --- |
 | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20bunny.png"  width="400"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20deformed%20bunny.png"  width="400"> |
+| <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20face.png"  width="400"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20deformed%20face.png"  width="400"> |
+| <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20dino.png"  width="400"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20deformed%20dino.png"  width="400"> |
+<\br>
+
+### Reference
+\[SCLA04\] Sorkine, O., Cohen-Or, D., Lipman, Y., Alexa, M., Rössl, C., & Seidel, H. P. (2004, July). Laplacian surface editing. In Proceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing (pp. 175-184).
+
+
 
 
 
