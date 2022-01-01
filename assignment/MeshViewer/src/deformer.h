@@ -29,6 +29,10 @@ private:
 	std::vector< Vertex* > mRoiList;
 	// Solver for pre-factorizing the system matrix of the deformation
 	Eigen::SimplicialLDLT< Eigen::SparseMatrix< double > >* mCholeskySolver;
+    
+    // use pointer, object too big
+    Eigen::SparseMatrix<double> *mL;
+    Eigen::MatrixX3d *mb;
 };
 
 #endif // DEFORMER_H
