@@ -14,8 +14,7 @@ Compute normal for each vertex </br>
 | --- | --- |
 | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%20B.png"  width="300"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20B1.png"  width="300"> <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20B2.png"  width="300"> |
 | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%20F.png"  width="300"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20F1.png"  width="300"> <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%20F2.png"  width="300"> |
-| <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%203H.png"  width="300"> | 
-<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%203H1.png"  width="300"> <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%203H2.png"  width="300"> |
+| <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Original%203H.png"  width="300"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%203H1.png"  width="300"> <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/Smoothed%203H2.png"  width="300"> |
 
 
 Original Bunny </br>
