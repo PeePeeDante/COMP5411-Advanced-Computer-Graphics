@@ -41,7 +41,6 @@ The following are some results of the mesh deformation using the Laplacian-based
 | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20dino.png"  width="400"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20deformed%20dino.png"  width="400"> |
 
 
-<\br>
 
 ### Reference
 \[SCLA04\] Sorkine, O., Cohen-Or, D., Lipman, Y., Alexa, M., Rössl, C., & Seidel, H. P. (2004, July). Laplacian surface editing. In Proceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing (pp. 175-184).
