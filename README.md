@@ -39,6 +39,8 @@ The following are some results of the mesh deformation using the Laplacian-based
 | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20bunny.png"  width="400"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20deformed%20bunny.png"  width="400"> |
 | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20face.png"  width="400"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20deformed%20face.png"  width="400"> |
 | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20dino.png"  width="400"> | <img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/assignment/images/ass2%20deformed%20dino.png"  width="400"> |
+
+
 <\br>
 
 ### Reference
